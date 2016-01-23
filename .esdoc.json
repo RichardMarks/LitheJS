@@ -1,0 +1,12 @@
+{
+    "source": "./src/",
+    "destination": "./docs",
+    "title": "LitheJS",
+    "index": "./README.md",
+    "manual": {
+        "asset": "./manual/asset",
+        "usage": ["./manual/usage.md"],
+        "installation": ["./manual/installation.md"],
+        "overview": ["./manual/overview.md"]
+    }
+}
